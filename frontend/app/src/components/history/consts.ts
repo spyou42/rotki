@@ -146,6 +146,13 @@ export const tradeLocations: TradeLocationData[] = [
     exchange: true
   },
   {
+    identifier: EXCHANGE_SWISSBORG,
+    name: 'SwissBorg',
+    icon: require('@/assets/images/swissborg.png'),
+    imageIcon: true,
+    exchange: true
+  },
+  {
     identifier: EXCHANGE_CRYPTOCOM,
     name: 'Crypto.com',
     icon: require('@/assets/images/crypto.com.png'),
